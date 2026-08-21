@@ -1,0 +1,15 @@
+/workspaces/WeatherNow-L-sning/backend/bin/Debug/net8.0/backend
+/workspaces/WeatherNow-L-sning/backend/bin/Debug/net8.0/backend.deps.json
+/workspaces/WeatherNow-L-sning/backend/bin/Debug/net8.0/backend.runtimeconfig.json
+/workspaces/WeatherNow-L-sning/backend/bin/Debug/net8.0/backend.dll
+/workspaces/WeatherNow-L-sning/backend/bin/Debug/net8.0/backend.pdb
+/workspaces/WeatherNow-L-sning/backend/obj/Debug/net8.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/WeatherNow-L-sning/backend/obj/Debug/net8.0/backend.AssemblyInfoInputs.cache
+/workspaces/WeatherNow-L-sning/backend/obj/Debug/net8.0/backend.AssemblyInfo.cs
+/workspaces/WeatherNow-L-sning/backend/obj/Debug/net8.0/backend.csproj.CoreCompileInputs.cache
+/workspaces/WeatherNow-L-sning/backend/obj/Debug/net8.0/backend.sourcelink.json
+/workspaces/WeatherNow-L-sning/backend/obj/Debug/net8.0/backend.dll
+/workspaces/WeatherNow-L-sning/backend/obj/Debug/net8.0/refint/backend.dll
+/workspaces/WeatherNow-L-sning/backend/obj/Debug/net8.0/backend.pdb
+/workspaces/WeatherNow-L-sning/backend/obj/Debug/net8.0/backend.genruntimeconfig.cache
+/workspaces/WeatherNow-L-sning/backend/obj/Debug/net8.0/ref/backend.dll
